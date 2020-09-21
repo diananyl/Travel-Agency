@@ -1,0 +1,101 @@
+E:\FF\FF\bin\Debug\FF.exe.config
+E:\FF\FF\bin\Debug\FF.exe
+E:\FF\FF\bin\Debug\FF.pdb
+E:\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+E:\FF\FF\obj\Debug\FF.Form1.resources
+E:\FF\FF\obj\Debug\FF.Properties.Resources.resources
+E:\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+E:\FF\FF\obj\Debug\FF.csproj.CoreCompileInputs.cache
+E:\FF\FF\obj\Debug\FF.exe
+E:\FF\FF\obj\Debug\FF.pdb
+E:\FF\FF\obj\Debug\FF.FormReg.resources
+E:\FF\FF\obj\Debug\FF.FormNach.resources
+E:\FF\FF\obj\Debug\FF.FormPOL.resources
+E:\FF\FF\obj\Debug\FF.FormZakaz.resources
+E:\FF\FF\obj\Debug\FF.FormOplata.resources
+E:\FF\FF\obj\Debug\FF.FormBron.resources
+E:\FF\FF\obj\Debug\FF.FormD.resources
+E:\FF\FF\obj\Debug\FF.FormOtel.resources
+E:\FF\FF\obj\Debug\FF.FormStr.resources
+E:\FF\FF\obj\Debug\FF.FormVOt.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FormReg.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Properties.Resources.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.csproj.CoreCompileInputs.cache
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.exe
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.pdb
+D:\ПРАКТИКА Т34\FF\FF\bin\Debug\FF.exe.config
+D:\ПРАКТИКА Т34\FF\FF\bin\Debug\FF.exe
+D:\ПРАКТИКА Т34\FF\FF\bin\Debug\FF.pdb
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Avtor.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FormGlMan.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FormSotrDol.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Strana_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Man_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Otel_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.VOtd_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FormDirekAdmin.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FormBuch.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Bron_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.Oplata_Form.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.ProsSForm.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.FilterForm.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.RF.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.ClientForm.resources
+D:\ПРАКТИКА Т34\FF\FF\obj\Debug\FF.VCLForm.resources
+D:\2\FF\FF\bin\Debug\FF.exe.config
+D:\2\FF\FF\bin\Debug\FF.exe
+D:\2\FF\FF\bin\Debug\FF.pdb
+D:\2\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+D:\2\FF\FF\obj\Debug\FF.Avtor.resources
+D:\2\FF\FF\obj\Debug\FF.Bron_Form.resources
+D:\2\FF\FF\obj\Debug\FF.ClientForm.resources
+D:\2\FF\FF\obj\Debug\FF.FilterForm.resources
+D:\2\FF\FF\obj\Debug\FF.FormDirekAdmin.resources
+D:\2\FF\FF\obj\Debug\FF.FormBuch.resources
+D:\2\FF\FF\obj\Debug\FF.FormGlMan.resources
+D:\2\FF\FF\obj\Debug\FF.FormReg.resources
+D:\2\FF\FF\obj\Debug\FF.FormSotrDol.resources
+D:\2\FF\FF\obj\Debug\FF.Man_Form.resources
+D:\2\FF\FF\obj\Debug\FF.Oplata_Form.resources
+D:\2\FF\FF\obj\Debug\FF.Otel_Form.resources
+D:\2\FF\FF\obj\Debug\FF.Properties.Resources.resources
+D:\2\FF\FF\obj\Debug\FF.ProsSForm.resources
+D:\2\FF\FF\obj\Debug\FF.RF.resources
+D:\2\FF\FF\obj\Debug\FF.Strana_Form.resources
+D:\2\FF\FF\obj\Debug\FF.VCLForm.resources
+D:\2\FF\FF\obj\Debug\FF.VOtd_Form.resources
+D:\2\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+D:\2\FF\FF\obj\Debug\FF.csproj.CoreCompileInputs.cache
+D:\2\FF\FF\obj\Debug\FF.exe
+D:\2\FF\FF\obj\Debug\FF.pdb
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\bin\Debug\FF.exe.config
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\bin\Debug\FF.exe
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\bin\Debug\FF.pdb
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Avtor.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.ClientForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FilterForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FormDirekAdmin.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FormBuch.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FormGlMan.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FormReg.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.FormSotrDol.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Man_Form.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Oplata_Form.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Otel_Form.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Properties.Resources.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.ProsSForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.RF.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.Strana_Form.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.VCLForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.VOtd_Form.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.exe
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.pdb
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.BronForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.DelAdmForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.RedAdmForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.InsertForm.resources
+D:\ПРАКТИКА Т34\Новая папка\2\FF\FF\obj\Debug\FF.KLIENTForm.resources

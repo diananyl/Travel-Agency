@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3BA6B800-314B-434C-9E31-EA7529015913}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FF</RootNamespace>
+    <AssemblyName>FF</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Avtor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avtor.Designer.cs">
+      <DependentUpon>Avtor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BronForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BronForm.Designer.cs">
+      <DependentUpon>BronForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelAdmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DelAdmForm.Designer.cs">
+      <DependentUpon>DelAdmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilterForm.Designer.cs">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDirekAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDirekAdmin.Designer.cs">
+      <DependentUpon>FormDirekAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuch.Designer.cs">
+      <DependentUpon>FormBuch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGlMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGlMan.Designer.cs">
+      <DependentUpon>FormGlMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReg.Designer.cs">
+      <DependentUpon>FormReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSotrDol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSotrDol.Designer.cs">
+      <DependentUpon>FormSotrDol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertForm.Designer.cs">
+      <DependentUpon>InsertForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KLIENTForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KLIENTForm.Designer.cs">
+      <DependentUpon>KLIENTForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Man_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Man_Form.Designer.cs">
+      <DependentUpon>Man_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oplata_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oplata_Form.Designer.cs">
+      <DependentUpon>Oplata_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otel_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otel_Form.Designer.cs">
+      <DependentUpon>Otel_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProsSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProsSForm.Designer.cs">
+      <DependentUpon>ProsSForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RedAdmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RedAdmForm.Designer.cs">
+      <DependentUpon>RedAdmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RF.Designer.cs">
+      <DependentUpon>RF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Strana_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Strana_Form.Designer.cs">
+      <DependentUpon>Strana_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turAgEgorovaDataSet1.cs">
+      <DependentUpon>turAgEgorovaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="turAgEgorovaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>turAgEgorovaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="turAgEgorovaDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>turAgEgorovaDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VCLForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCLForm.Designer.cs">
+      <DependentUpon>VCLForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VOtd_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VOtd_Form.Designer.cs">
+      <DependentUpon>VOtd_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Avtor.resx">
+      <DependentUpon>Avtor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BronForm.resx">
+      <DependentUpon>BronForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelAdmForm.resx">
+      <DependentUpon>DelAdmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilterForm.resx">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDirekAdmin.resx">
+      <DependentUpon>FormDirekAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuch.resx">
+      <DependentUpon>FormBuch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGlMan.resx">
+      <DependentUpon>FormGlMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReg.resx">
+      <DependentUpon>FormReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSotrDol.resx">
+      <DependentUpon>FormSotrDol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertForm.resx">
+      <DependentUpon>InsertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KLIENTForm.resx">
+      <DependentUpon>KLIENTForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Man_Form.resx">
+      <DependentUpon>Man_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oplata_Form.resx">
+      <DependentUpon>Oplata_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otel_Form.resx">
+      <DependentUpon>Otel_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ProsSForm.resx">
+      <DependentUpon>ProsSForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RedAdmForm.resx">
+      <DependentUpon>RedAdmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RF.resx">
+      <DependentUpon>RF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Strana_Form.resx">
+      <DependentUpon>Strana_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCLForm.resx">
+      <DependentUpon>VCLForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VOtd_Form.resx">
+      <DependentUpon>VOtd_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="turAgEgorovaDataSet1.xsc">
+      <DependentUpon>turAgEgorovaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="turAgEgorovaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>turAgEgorovaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="turAgEgorovaDataSet1.xss">
+      <DependentUpon>turAgEgorovaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="turAgEgorovaDataSet11.xsc">
+      <DependentUpon>turAgEgorovaDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="turAgEgorovaDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>turAgEgorovaDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="turAgEgorovaDataSet11.xss">
+      <DependentUpon>turAgEgorovaDataSet11.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kids_Room_Wall_Art_-_MonkeyBalloons.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clouds-1846124_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clouds-1846124_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature-3102568_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palm-tree-2820329_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palm-tree-1842972_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun-3568295_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\miami-3015760_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palm-tree-2820329_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ocean-829715_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maldives-1357020_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hawaii-2700190_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palm-trees-1210002_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tropical-67910_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baltic-sea-4136488_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lagoon-284555_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boat-962799_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-1209726_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\potrait-4234344_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-1834329_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footsteps-3938563_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature-2203675_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-3121354_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-1852945_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sky-2009916_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sky-2009916_1920.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
